@@ -60,7 +60,7 @@ This is the directory tree:
 2. `hyprland.lua`- Default config file, the config file Hyprland launches from.
 3. `inputs.lua`- Contains the input options.
 4. `keybinds.lua`- Contains the keybinds.
-5. `llok_and_feel.lua`- Contains the animations, and general look-and-feel of the session.
+5. `look_and_feel.lua`- Contains the animations, and general look-and-feel of the session.
 6. `monitors.lua`- Contains the monitor(s) config.
 
 ### dependencies
