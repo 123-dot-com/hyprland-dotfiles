@@ -1,14 +1,14 @@
 # Hyprland dotfiles
 These are my personal configuration files for Hyprland v0.56.2, wriiten in Lua. These provide a very simple starting point for anyone trying to learn to configure on their own. 
 
-## Table of contents
-[Requirements](#Requirements)
-[Quickstarting](#Quickstarting)
-[Configuring](#Configuring)
-
 > Note:
 > These dotfiles provide a very basic system that, although is functional, provides a very bare-bones user experience.
 > The main intention of this repository is to be as a launch-pad of sorts for those trying to configure their own Hyprland setups.
+
+## Table of contents
+- [Requirements](#Requirements)
+- [Quickstarting](#Quickstarting)
+- [Configuring](#Configuring)
 
 ## Requirements
 You will need Arch/NixOS and Hyprland v0.56.2 (or newer).
